@@ -1,7 +1,7 @@
-# <summary><strong>Hi there :wave: , I'm Alx!</strong></summary>
+# <p align="center">Hi there :wave: , I'm Miftakhussurur Al Maliki!</p>
 Lifelong Learner, currently working as budagh kompeni.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mifta-alx&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
+
+[![](https://visitcount.itsvg.in/api?id=mifta-alx&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
@@ -23,4 +23,7 @@ Lifelong Learner, currently working as budagh kompeni.
 ### <summary><strong>Let's connect!</strong></summary>
 <a href="https://www.instagram.com/alx.al_/">
   <img align="left" alt="Alx Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
+</a><br/>
+
+### <summary><strong>GitHub Stats:</strong></summary>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mifta-alx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
