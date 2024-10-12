@@ -8,7 +8,6 @@ Interesting on frontend and mobile development
     - :keyboard: I’m currently learning Web development specially Frontend. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:alx.yoi67@gmail.com">Email me!</a></br>
-    - :game_die: Drawing and writing are part of me. </br>
 <p>
  
 ## <strong>Languages and Tools:</strong>
