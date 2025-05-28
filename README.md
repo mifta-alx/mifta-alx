@@ -23,9 +23,9 @@ Interesting on frontend and mobile development
 <a href="https://www.instagram.com/alx.al_/">
   <img align="left" alt="Alx Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
 </a>
-<a href="https://www.linkedin.com/in/miftakhussurur">
+<!-- <a href="https://www.linkedin.com/in/miftakhussurur">
   <img align="left" alt="Alx Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
+</a> -->
 <a href="https://www.tiktok.com/@alxsemuanya">
   <img align="left" alt="Alx Tiktok" width="20px" src="https://simpleicons.now.sh/tiktok/495f7e" />
 </a>
