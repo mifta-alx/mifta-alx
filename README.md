@@ -5,9 +5,9 @@ Interesting on frontend and mobile development
 
 ### <strong>Yosh!</strong>
 <p>
-    - :keyboard: I’m currently learning Web development specially Frontend. </br>
     - :speech_balloon: Ask me about anything.</br>
     - :mailbox: How to reach me: <a href="mailto:alx.yoi67@gmail.com">Email me!</a></br>
+    - My Personal Website : <a href="https://withalx.com"e>Personal Website</a></br>
 <p>
  
 ## <strong>Languages and Tools:</strong>
