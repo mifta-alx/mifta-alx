@@ -1,32 +1,96 @@
-# <p align="center">Hi there :wave: , I'm Miftakhussurur Al Maliki!</p>
-Interesting on frontend and mobile development
-<br/>
-[![](https://visitcount.itsvg.in/api?id=mifta-alx&icon=0&color=1)](https://visitcount.itsvg.in)
-
-### <strong>Yosh!</strong>
-<p>
-    - :speech_balloon: Ask me about anything.</br>
-    - :mailbox: How to reach me: <a href="mailto:alx.yoi67@gmail.com">Email me!</a></br>
-    - My Personal Website : <a href="https://withalx.com"e>Personal Website</a></br>
-<p>
+<div align="center">
+    
+# Miftakhussurur Al Maliki
+### Frontend & Fullstack Developer
  
-## <strong>Languages and Tools:</strong>
-          
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+**Turning ideas into fast, scalable, and user-friendly products.**
+ 
+[![Email](https://img.shields.io/badge/miftakhussurural%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:miftakhussurural@gmail.com)
+[![Website](https://img.shields.io/badge/withalx.com-000000?style=flat-square&logo=safari&logoColor=white)](https://withalx.com)
+[![Instagram](https://img.shields.io/badge/@alx.al__-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/alx.al_/)
+[![TikTok](https://img.shields.io/badge/@alxsemuanya-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.tiktok.com/@alxsemuanya)
+![Profile Views](https://komarev.com/ghpvc/?username=mifta-alx&style=flat-square&color=6366f1&label=Profile+Views)
+ 
+</div>
 
-## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mifta-alx&theme=swift&hide_border=false&show=prs_merged&show_icons=true&rank_icon=github)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mifta-alx&langs_count=10&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+ ## About
+ 
+I'm a Frontend & Mobile Developer focused on crafting fast, accessible, and visually polished applications. I bridge the gap between design and engineering — turning Figma mockups into production-ready code with clean architecture and smooth user experiences.
+ 
+- 🔭 Currently deepening expertise in **Swift** and **Go**
+- 💬 Ask me about **React, Next.js, React Native, or Laravel**
+- 🤝 Open to **full-time roles, freelance projects, and collaboration**
 
-### <strong>Let's connect!</strong></summary>
-<a href="https://www.instagram.com/alx.al_/">
-  <img align="left" alt="Alx Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
-</a>
-<!-- <a href="https://www.linkedin.com/in/miftakhussurur">
-  <img align="left" alt="Alx Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a> -->
-<a href="https://www.tiktok.com/@alxsemuanya">
-  <img align="left" alt="Alx Tiktok" width="20px" src="https://simpleicons.now.sh/tiktok/495f7e" />
-</a>
-<br/>
+---
+
+**Languages**
+ 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+ 
+**Frontend & Mobile**
+ 
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-1C1E24?style=flat-square&logo=expo&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-f1413d?style=flat-square&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=flat-square&logo=bootstrap&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+ 
+**Backend & Frameworks**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeIgniter&logoColor=white)
+ 
+**Databases & Storage**
+ 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
+ 
+**Tools**
+ 
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+ 
+---
+
+## GitHub Stats
+ 
+<div align="center">
+    
+<img src="https://github-readme-stats-alx.vercel.app/api?username=mifta-alx&theme=default&hide_border=true&show=prs_merged&show_icons=true&rank_icon=github&cache_seconds=1800" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats-alx.vercel.app/api/top-langs/?username=mifta-alx&langs_count=8&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800" height="160"/>
+
+<div align="center">
+    
+![GitHub Streak](https://streak-stats.demolab.com?user=mifta-alx&theme=default&hide_border=true)
+ 
+</div>
+
+---
+ 
+<div align="center">
+<sub>Let's build something great together — reach out anytime.</sub>
+</div>
